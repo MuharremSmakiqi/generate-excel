@@ -4,24 +4,9 @@
 
 > In this project we have used Laravel Excel (https://laravel-excel.com/)
 
-> This project contains an API download the file
-
-> include terms/tags that can be searched
-
-**Badges will go here**
-
-- build status
-- issues (waffle.io maybe)
-- devDependencies
-- npm package
-- coverage
-- slack
-- downloads
-- gitter chat
-- license
-- etc.
-   
-## Example (Optional)
+> This project contains an API to download the file
+ 
+## Code (API)
 
 ```API 
 Route::get('/generate-report', function(){
