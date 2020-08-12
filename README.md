@@ -2,9 +2,9 @@
 
 # Generate Excel Document using Laravel
 
-> In this project we have used Laravel Excel (https://laravel-excel.com/)
+> In this project we have used Laravel Excel library (https://laravel-excel.com/)
 
-> This project contains an API to download the file
+> This project contains an API that generates Excel reports
  
 ## Code (API)
 
