@@ -24,6 +24,7 @@ Route::get('/generate-report', function(){
 ### Clone
 
 - Clone this repo to your local machine using `git clone https://github.com/MuharremSmakiqi/generate-excel.git`
+- After clone please copy env.example to .env and setup your database.
 
 ### Setup 
 - `cd generate-excel`
