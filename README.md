@@ -32,7 +32,7 @@ Route::get('/generate-report', function(){
 - `npm install`
 - `php artisan migrate --seed`
 - `php artisan serve`
-- Visit the route: /api/download
+- Visit the route: /api/generate-report
 ---
  
 
