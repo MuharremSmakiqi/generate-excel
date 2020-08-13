@@ -12,6 +12,8 @@
 Route::get('/generate-report', function(){
    return Excel::download(new OrdersExport, 'Orders.xlsx');
 });
+
+Route::get('/sum', 'ClosestSumController@index');
 ```
 
 ---
